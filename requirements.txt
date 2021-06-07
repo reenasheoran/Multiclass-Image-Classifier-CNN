@@ -3,3 +3,4 @@ sklearn
 flask
 uuid
 urllib
+gunicorn
